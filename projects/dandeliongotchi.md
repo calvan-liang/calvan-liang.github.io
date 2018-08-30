@@ -12,7 +12,7 @@ labels:
 summary: A game where the player must properly manage the dandelion's water and fertilizer intake.
 ---
 
-<img class="ui medium right floated rounded image" src="../Dandeliongotchi_pic2.png">
+<img class="ui medium right floated rounded image" src="../images/Dandeliongotchi_pic2.png">
 
 Dandeliongotchi is a clicker game based on the once popular Tamagotchi. It is a solo project assigned in ICS 111. The project helped me learn how to manage and manipulate the values of multiple variables as time passes.
 
