@@ -20,4 +20,4 @@ Dandeliongotchi is created using a Java integrated development environment (IDE)
 
 When I finished this project, I understood how to manipulate values over time, create an area of collision (detection of the mouse clicking on a picture), and code graphics in Java. I also familiarized myself and gained experience with the Java IDE Eclipse.
 
-Video Demonstration: <a href="https://www.dailymotion.com/video/x61vpuf"></i>Dandeliongotchi</a>
+Video Demonstration: <a href="https://www.dailymotion.com/video/x61vpuf"><>Dandeliongotchi</a>
