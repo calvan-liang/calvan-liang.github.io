@@ -18,5 +18,6 @@ Dandeliongotchi is a clicker game based on the once popular Tamagotchi. It is a 
 
 Dandeliongotchi is created using a Java integrated development environment (IDE) called Eclipse. This was a solo project, so I had to manage myself wisely. Within two to three days, I had a working prototype where values of variables change over time and could be changed by the player.
 
-When I finished this project, I understood how to manipulate values over time, create an area of collision (detection of the mouse clicking on a picture), and code graphics in Java. I also familiarized myself and gained experience with Eclipse.
+When I finished this project, I understood how to manipulate values over time, create an area of collision (detection of the mouse clicking on a picture), and code graphics in Java. I also familiarized myself and gained experience with the Java IDE Eclipse.
 
+Video Demonstration: <a href="https://www.dailymotion.com/video/x61vpuf"><i class="large github icon"></i>Dandeliongotchi</a>
