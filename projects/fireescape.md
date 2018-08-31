@@ -9,7 +9,7 @@ date: 2017-12-04
 labels:
   - Java
   - Eclipse
-summary: A game where the player is a fire sprite, which has an objective to reach the fire exit. There are aggressive bubbles blocking the path to the fire exit. They threatens to put the fire spirte out. There are three levels.
+summary: A game where the player is a fire sprite, which has an objective to reach the fire exit. There are aggressive bubbles blocking the path to the fire exit. They threaten to put the fire sprite out. There are three levels.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/FireEscape_pic2.png">
