@@ -9,7 +9,7 @@ labels:
   - Reflection
 ---
 
-<img class="ui medium right floated rounded image" src="../images/essay_pic.png">
+<img class="ui medium right floated rounded image" src="../images/essay_pic.PNG">
 
 The first programming language I learned is C++. My high school introductory programming course allowed me to find my interest in coding. I immediately decided I wanted to major in Computer Science. When I entered University of Hawaii at Manoa, I panicked when I realized we will be coding in Java, not C++. I was really attached to C++ since it was the only language I knew at the time. Eventually, I got more comfortable with Java. After taking ICS 111 and ICS 211, it is now my new favorite language. Now in ICS 314, Javascript is introduced to me. Since the word "Java" is in Javascript, I assumed it will be similar to Java. There will just be some minor syntax differences. I was delightfully surprised after programming with Javascript for the first time. 
 
