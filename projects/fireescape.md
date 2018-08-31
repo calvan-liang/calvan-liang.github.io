@@ -12,11 +12,11 @@ labels:
 summary: A game where the player is a fire sprite, which has an objective to reach the fire exit. There are aggressive bubbles blocking the path to the fire exit. They threaten to put the fire sprite out. There are three levels.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/FireEscape_pic2.png">
+<img class="ui small right floated rounded image" src="../images/FireEscape_pic2.png">
 
-<img class="ui medium right floated rounded image" src="../images/FireEscape_pic3.png">
+<img class="ui small right floated rounded image" src="../images/FireEscape_pic3.png">
 
-<img class="ui medium right floated rounded image" src="../images/FireEscape_pic4.png">
+<img class="ui small right floated rounded image" src="../images/FireEscape_pic4.png">
 
 This ICS 111 project required everyone to create their own miniature game. I created Fire Escape. Fire Escape is a game where a fire sprite tries to literally escape. The player controls the fire sprite using arrow keys. There are aggressive bubbles blocking the path to the fire escape. The player can win if he or she sucessfully dodges all the bubbles and reach the fire escape. There are three levels of increasing difficulty.  
 
