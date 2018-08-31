@@ -80,19 +80,19 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "University of Hawaii, Linguistics Department",
+      "position": "Computer Laboratory Monitor",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2017-08-27",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Computer Lab Monitor for the UH Linguistics Building",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Oversee computer lab",
+        "Assist students who cannot log into their computer and solve computer related problems"
       ]
     }
   ],
-  "volunteer": [
+  "activities": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
