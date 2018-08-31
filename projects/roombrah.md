@@ -18,7 +18,7 @@ Roombrah is a simulation of a cleaning robot from the top-down view. The walls r
 
 Roombrah is created using a Java integrated development environment (IDE) called Eclipse. This was a solo ICS 111 project, so I managed this project by myself. Within two days, I had a working prototype. The "roombrah" was able to collide and bounce off walls, deleting dirt that it collides into on the way. 
 
-When I finished this project, I understood how to implement a seperate class into my main class, create moving entities, and detect collisions between entities. I also gained a deeper understanding of Java classes and graphics.
+When I finished this project, I understood how to implement a seperate class into my Main class, create moving entities, and detect collisions between entities. I also gained a deeper understanding of Java classes and graphics.
 
 Video Demonstration: <a href="https://www.youtube.com/watch?v=t_EQsXMiV7o&t=26s">Roombrah</a>
 
