@@ -20,6 +20,6 @@ Roombrah is created using a Java integrated development environment (IDE) called
 
 When I finished this project, I understood how to implement a seperate class into my Main class, create moving entities, read a file, and detect collisions between entities. I also gained a deeper understanding of Java classes and graphics.
 
-Video Demonstration: <a href="https://www.youtube.com/watch?v=t_EQsXMiV7o&t=26s">Roombrah</a>
+Video Demonstration: <a href="https://www.youtube.com/watch?v=t_EQsXMiV7o&t=">Roombrah</a>
 
 (I no longer have access to the code, so no source code is available.)
