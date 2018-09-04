@@ -24,6 +24,6 @@ Fire Escape is created using a Java integrated development environment (IDE) cal
 
 When the project was finished, I learned how to change the .txt file being accessed without re-running or re-compiling (such as when the player moves to different level), keep track and detect collisions of many entities, and create a simple interface for the player to use (menu, level select, restart, etc).
 
-Video Demonstration: <a href="https://www.youtube.com/watch?v=asvaF2X6ECw&t=105s">Fire Escape</a>
+Video Demonstration: <a href="https://www.youtube.com/watch?v=asvaF2X6ECw&t=">Fire Escape</a>
 
 (I no longer have access to the code, so no source code is available.)
