@@ -9,4 +9,4 @@ labels:
   - Stack Overflow
 ---
 
-Test
+Stack Overflow is an amazing forum where software engineers can ask questions about code, programming concepts, and programming-related topics. However, if the question does not sufficiently explain the problem, then the answer given will not always sufficiently solve the problem. An answer may not be given at all if the question is too vague.  
