@@ -13,4 +13,4 @@ Stack Overflow is an amazing forum where software engineers can ask questions ab
 
 (Paragraph on a smart question)
 
-A "stupid" question usually contains a vague subject header, insufficient or unspecific details about the problem, messy formatting, and an unclear end goal. 
+A "stupid" question usually contains a vague subject header, insufficient or unspecific details about the problem, messy formatting, and an unclear end goal. The "stupid" question can also be a question that is already already answered elsewhere. If the solution can be easily found with a little research, the same question does not need to be asked again. 
