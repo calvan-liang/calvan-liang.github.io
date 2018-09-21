@@ -19,7 +19,7 @@ Coding standards play a role in the quality of code. A properly formatted progra
 
 # Learning with Coding Standards and My Experience
 
-ESLint's enforcement of coding standards can help an ICS student develop good coding habits. ESLint immediately informs the user if something does not follow the coding standards. This allows the student to continually fix their code and adhere to the coding standards. It will eventually become natural for them to always format their code in accordance to the standards.
+ESLint's enforcement of coding standards can help ICS students develop good coding habits. ESLint immediately informs the user if something does not follow the coding standards. This allows the student to continually fix their code and adhere to the coding standards. It will eventually become natural for them to always format their code in accordance to the standards.
 
 My initial impression after the first week of using ESLint with IntelliJ is overwhelmingly positive. It is very advantageous that ESLint immediately underlines code that is not following the coding standards. It can potentially highlight errors that I would normally miss without ESLint. I find the green checkmark on the upper right corner to be very useful. I find no frustration when it is a red x, since it conveys that there are errors in my code. It will be more frustrating without ESLint, since I would have to manually find the errors.
 
