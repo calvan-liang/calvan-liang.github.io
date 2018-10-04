@@ -10,5 +10,5 @@ labels:
 ---
 
 <p align="center">
-  <img width="460" height="300" src="../images/comp_pic.jpg">
+  <img src="../images/comp_pic.jpg">
 </p>
