@@ -10,5 +10,5 @@ labels:
 ---
 
 <p align="center">
-  <img src="../images/comp_pic.jpg">
+  <img src="../images/Semantic_UI_Logo.png">
 </p>
