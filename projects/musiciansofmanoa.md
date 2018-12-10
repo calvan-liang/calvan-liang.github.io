@@ -21,4 +21,4 @@ This was a group project. My group of consisted of 6 people (including me). My g
 
 The experience I received from this project is a huge transition point for me because it is my first time working as a group through a Github organization. As expected for the first time, there were problems with merging and incompatiable code. This exposed me to the strong coordination needed to work together as a group and combine our code via Github. I also became more familiar with React, which is a JavaScript library for creating user interfaces. This project increased my confidence in working as a group via Github since I have a better understanding on how to coordinate with team members when merging our code on Github.
 
-To learn more about this application, visit the Musicians of Manoa Github Homepage. For the source code, visit the Musicans of Manoa Github Organization Page. 
+To learn more about this application, visit the <a href="https://musiciansofmanoa.github.io/">Musicians of Manoa Github Homepage</a>. For the source code, visit the <a href="https://github.com/musiciansofmanoa">Musicans of Manoa Github Organization Page</a>.
