@@ -13,6 +13,6 @@ labels:
 summary: An app for musicians in Manoa. Users can create a profile and browse other people's profile. Using this app, Musicans can gather together and have Jam Sessions, meetups where they jam out.
 ---
 
-<img class="medium" src="../images/m3browse.PNG">
+<img class="ui medium rounded image" src="../images/m3browse.PNG">
 
 Hi.
