@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/m3browse.PNG
+image: images/m3landing.PNG
 title: Musicians of Manoa
 permalink: projects/musiciansofmanoa
 # All dates must be YYYY-MM-DD format!
