@@ -10,7 +10,7 @@ labels:
   - Javascript
   - React
   - Galaxy
-summary: An app for musicians of Manoa. Users can create a profile and browse other peoples' profile. Using this app, Musicans can gather together and have jam sessions, which are meetups where they can jam out.
+summary: An app for musicians of Manoa. Users can create a profile and browse other peoples' profile. Using this app, Musicians can gather together and have jam sessions, which are meetups where they can jam out.
 ---
 
 <img class="ui rounded image" src="../images/m3browse.PNG">
