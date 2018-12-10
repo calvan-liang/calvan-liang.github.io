@@ -52,6 +52,7 @@
         "C",
         "C++",
         "Java",
+        "Javascript",
         "Python"
       ]
     },
@@ -62,6 +63,7 @@
         "Windows",
         "Unix",
         "GitHub",
+        "IntelliJ IDEA",
         "LaTex"
       ]
     }
@@ -73,7 +75,7 @@
       "studyType": "B.S.",
       "startDate": "2017-08-20",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.92",
       "courses": [
       ]
     }
