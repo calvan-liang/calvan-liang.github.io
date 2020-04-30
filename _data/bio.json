@@ -8,7 +8,7 @@
     "website": "https://calvan-liang.github.io",
     "summary": "I am a college student studying for a B.S. in Computer Science at the University of Hawaii at Manoa. I expect to graduate by Spring 2021. I enjoy learning different aspects of computing technology. My focus is computer operation, management, and maintenance. I also have interests in web design, development, and management.",
     "location": {
-      "address": "",
+      "address": "1245 Maunakea St. Apt. 1110 ",
       "postalCode": "96817",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "Software Engineering",
+      "name": "Computer Operations",
       "keywords": [
       ]
     },
     {
-      "name": "Game Development",
+      "name": "Computer Management and m=Maintenance",
       "keywords": [
       ]
     },
     {
-      "name": "Multimedia Design",
+      "name": "Web Development",
       "keywords": [
       ]
     }
