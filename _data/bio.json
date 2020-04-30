@@ -75,27 +75,28 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2021)",
+      "institution": "University of Hawaiʻi at Mānoa ",
+      "area": "Computer Science (expected Spring 2021)",
       "studyType": "B.S.",
       "startDate": "2017-08-20",
       "endDate": "Present",
-      "gpa": "3.92",
+      "gpa": "3.84",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "University of Hawaii, Linguistics Department",
+      "company": "Center for Language & Technology",
       "position": "Computer Laboratory Monitor",
-      "website": "",
+      "website": "https://clt.manoa.hawaii.edu/",
       "startDate": "2017-08-27",
       "endDate": "Present",
-      "summary": "Computer Lab Monitor for the UH Linguistics Building.",
+      "summary": "Computer Lab Monitor for the Center for Language & Technology Computer Lab.",
       "highlights": [
-        "Oversee computer lab",
-        "Assist students who cannot log into their computer and solve computer related problems",
+        "Provide lab users assistance in operating the computers and equipment",
+        "Troubleshoot and resolve various computer-related issues, of which could be hardware-related or software-related.",
+        "Assist students who cannot log onto their computer ",
         "Record the amount of people in the lab every hour"
       ]
     }
