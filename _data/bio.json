@@ -108,7 +108,7 @@
       "position": "Competitor",
       "startDate": "2016-08-15",
       "endDate": "2017-05-25",
-      "summary": "Member of a three man group that competes in the Cyberpatriot monthly competition",
+      "summary": "Member of a three man group that competes in the Cyberpatriot monthly competition.",
       "highlights": [
         "Secure the computer",
         "Solve the presented scenario or problem"
@@ -146,6 +146,12 @@
       "summary": "Scholarships awarded to incoming freshmen and continuing students. Prerequisites include a rigorous high school curriculum and a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
+      "title": "B+ Scholarship",
+      "date": "2017-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students. Prerequisites include a rigorous high school curriculum and a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
       "title": "28th Annual Physics Olympics Second Place",
       "date": "2017",
       "awarder": "American Association of Physics Teachers, Hawaii Section",
@@ -154,7 +160,7 @@
   ],
   "references": [
     {
-      "name": "     Available upon request. Contact me via email.",
+      "name": "Available upon request. Contact me via email.",
       "reference": ""
     }
   ]
