@@ -10,7 +10,7 @@ labels:
 ---
 
 <p align="center">
-  <img src="../images/RadGrad_Example_Picture.PNG">
+  <img src="../images/RadGrad_Example_Picture_Small.PNG">
 </p>
 
 When I entered the University of Hawaii at Manoa during the Fall Semester of 2017 as a computer science major, I was woefully unprepared for how different the college course system was from the high school course system. In high school, registering and planning courses properly to work towards graduation was, for the lack of a better term, basic. High school students simply had to choose seven classes every year for four years. These seven courses usually consist of a math, science, english, and history course. The rest are electives. It is a completely new ballpark when regarding the selection of college courses. I remember being completely bewildered by the concept that every semester or year is not standardized with the requirement of having a math, science, english, and history course. STAR GPS, the website University of Hawaii students use to plan and register for courses, confused my understanding of course structure and scheduling. Various questions buzzed through my mind. What does FW, FG, DA, DH, DL, DS, DB courses mean? Which ones am I required to do? What are lower and upper division courses? Do I still have to choose a math, reading, science, and history class every semester or year?
