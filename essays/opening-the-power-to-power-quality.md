@@ -116,3 +116,4 @@ cl808@DESKTOP-UJC5QS2:~/opq-docker$
 ```
 
 # My experience so far
+I still lack experience with Docker, though through what I have done for OPQ thus far, I can envision what I would be doing in the near future. Using Docker, I was able to bring up and build an image from one of the services in the OPQ cloud. I was also able to publish that image as the new updated image, though I did not change anything besides the version number. I can see the extended use of docker to manage and update the images of all six OPQ Cloud services, which are published at the openpowerquality organization on DockerHub.
