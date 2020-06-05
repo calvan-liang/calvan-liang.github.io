@@ -15,7 +15,7 @@ The current world events severely reduces the amount of physical contact people 
 
 # The Virtual Peer Work Experience
 
-On the first day of working real-time in pairs, the most notable advantage is the ability to bring people who are behind up to speed quickly. My partner was dealing with a move that took a couple of days, inhibiting him from making much progress on the assigned task. 
+On the first day of working real-time in pairs, the most notable advantage is the ability to bring people who are behind up to speed quickly. My partner was dealing with a move that took a couple of days, inhibiting him from making much progress on the assigned task. Both of us are using Windows 10 Home. Since Docker is intended for Unix and Linux systems, we are using the Windows Subsystem for Linux. As a result, we frequently run into issues which usually require us to reconfigure something or figure out a method of bypass. While he was moving, I spend a good amount of time going through the task and figuring solutions to various issues. During our first peer work session, I was able to assist him through some same issues I've encountered, saving him time he would've spent solving those same issues. 
 
 # Concluding Thoughts
 
