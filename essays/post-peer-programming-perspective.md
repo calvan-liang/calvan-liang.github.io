@@ -15,4 +15,4 @@ The current world events severely reduces the amount of physical contact people 
 
 # Floobits Issue
 
-Floobits is a cross-editor that allows real-time collaboration. Unfortunately, we were unable to test out Floorbits. During installation of this plugin for the IntelliJ IDEA IDE, I ran into several issues. 
+Floobits is a cross-editor that allows real-time collaboration. Unfortunately, we were unable to test out Floorbits. During installation of this plugin for the IntelliJ IDEA IDE, I ran an issue that prevented me from using it. I received a notice that the server's certificate is not trusted. As of right now, I could not find a way to resolve or bypass this issue. However, this does not discourage me from trying other cross-editors in the future. I do not doubt that a cross-editor would be essential to accelerating and streamlining the peer programming process.
