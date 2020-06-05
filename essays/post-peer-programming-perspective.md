@@ -24,4 +24,4 @@ Floobits is a cross-editor that allows real-time collaboration. Unfortunately, w
 # Concluding Thoughts
 
 Our peer work sessions, which were around 30 minutes each, proved to be effective in working out certain issues. I fairly enjoyed the process we had going. We initially worked on our own and save problems we could not solve on our own for the peer meeting. During the peer meeting, if Arslan so happens to have already found the solution for it, he can bring me up to speed. The same goes for the other way around, vice versa. If we both have the same issue, finding a solution is usually quicker when we both try to 
-resolve it. I look forward to trying a cross-editor in the future to experience how that would operate. 
+resolve it. Thus, to make the most of these short peer work sessions, it is advisable to work on it by yourself at first and bring certain issues you could not solve to your peer(s) later. Doing everything as a peer is too large of a time commitment. I look forward to trying a cross-editor in the future to experience how that would operate. 
