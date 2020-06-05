@@ -17,6 +17,8 @@ The current world events severely reduces the amount of physical contact people 
 
 On the first day of working real-time in pairs, the most notable advantage is the ability to bring people who are behind up to speed quickly. My partner was dealing with a move that took a couple of days, inhibiting him from making much progress on the assigned task. 
 
+# Concluding Thoughts
+
 # Floobits Issue
 
 Floobits is a cross-editor that allows real-time collaboration. Unfortunately, we were unable to test out Floorbits. During installation of this plugin for the IntelliJ IDEA IDE, I ran an issue that prevented me from using it. I received a notice that the server's certificate is not trusted. As of right now, I could not find a way to resolve or bypass this issue. However, this does not discourage me from trying other cross-editors in the future. I do not doubt that a cross-editor would be essential to accelerating and streamlining the peer programming process.
