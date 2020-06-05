@@ -11,4 +11,4 @@ labels:
 
 # Problems, Issues, and Difficulties
 
-Following the instructions at https://openpowerquality.org/docs/cloud-docker.html to bring up an instance of OPQ, I ran into a numerous amount of issues. 
+Following the instructions on this <a href="https://openpowerquality.org/docs/cloud-docker.html">guide</a> to bring up an instance of OPQ, I ran into a numerous amount of issues. 
