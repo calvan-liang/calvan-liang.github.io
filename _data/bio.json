@@ -103,12 +103,12 @@
   ],
   "volunteer": [
     {
-      "organization": "Greyhats",
-      "website": "https://acmanoa.github.io/greyhats/",
-      "position": "Member",
+      "organization": "RadGrad Summer 2020 Internship",
+      "website": "https://www.radgrad.org/summer2020.html",
+      "position": "Intern",
       "startDate": "2020-01-15",
-      "endDate": "Present",
-      "summary": "University of Hawaii Registered Indepedent Organization with focus on cybersecurity. A completely student-led extracurricular organization.",
+      "endDate": "2020",
+      "summary": ".",
       "highlights": [
         "Learn various cybersecurity skills and application.",
         "Prepare for upcoming competitions such as Capture the Flag and CCDC."
