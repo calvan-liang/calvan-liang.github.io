@@ -104,18 +104,6 @@
   ],
   "volunteer": [
     {
-      "organization": "Cyberpatriot",
-      "website": "http://www.uscyberpatriot.org/",
-      "position": "Competitor",
-      "startDate": "2016-08-15",
-      "endDate": "2017-05-25",
-      "summary": "Member of a three man group that competes in the Cyberpatriot monthly competition.",
-      "highlights": [
-        "Work to remove any security threats.",
-        "Solve the presented scenario or problem."
-      ]
-    },
-    {
       "organization": "Greyhats",
       "website": "https://acmanoa.github.io/greyhats/",
       "position": "Member",
@@ -125,6 +113,18 @@
       "highlights": [
         "Learn various cybersecurity skills and application.",
         "Prepare for upcoming competitions such as Capture the Flag and CCDC."
+      ]
+    },
+    {
+      "organization": "Cyberpatriot",
+      "website": "http://www.uscyberpatriot.org/",
+      "position": "Competitor",
+      "startDate": "2016-08-15",
+      "endDate": "2017-05-25",
+      "summary": "Member of a three man group that competes in the Cyberpatriot monthly competition.",
+      "highlights": [
+        "Work to remove any security threats.",
+        "Solve the presented scenario or problem."
       ]
     },
     {
@@ -141,6 +141,7 @@
       ]
     }
   ],
+/*
   "awards": [
     {
       "title": "B+ Scholarship",
@@ -155,6 +156,7 @@
       "summary": "A competition that tested students' knowledge of physics. My group and I were challenged with various physics problems and scenarios. We placed second."
     }
   ],
+*/
   "references": [
     {
       "name": "Available upon request. Contact me via email.",
