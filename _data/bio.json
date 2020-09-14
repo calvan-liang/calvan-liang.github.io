@@ -88,8 +88,8 @@
   ],
   "work": [
     {
-      "company": "Center for Language & Technology",
-      "position": "Computer Laboratory Monitor",
+      "company": "Computer Laboratory Monitor",
+      "position": "Center for Language & Technology",
       "website": "https://clt.manoa.hawaii.edu/",
       "startDate": "2017-08-27",
       "endDate": "Present",
@@ -103,9 +103,9 @@
   ],
   "volunteer": [
     {
-      "organization": "RadGrad Summer 2020 Internship",
+      "organization": "Intern",
       "website": "https://www.radgrad.org/summer2020.html",
-      "position": "Intern",
+      "position": "RadGrad Summer 2020 Internship",
       "startDate": "2020-01-15",
       "endDate": "2020",
       "summary": "RadGrad is a project that intends to improve and aid students in their STEM career path. It helps students and aspiring STEM specialists by guiding them through their degree program and presenting them post-graduate opportunities.",
@@ -115,9 +115,9 @@
       ]
     },
     {
-      "organization": "Cyberpatriot",
+      "organization": "Member and Competitor",
       "website": "http://www.uscyberpatriot.org/",
-      "position": "Competitor",
+      "position": "Cyberpatriot",
       "startDate": "2016-08-15",
       "endDate": "2017-05-25",
       "summary": "Member of a three man group that competes in the Cyberpatriot monthly competition.",
@@ -127,9 +127,9 @@
       ]
     },
     {
-      "organization": "CCDC",
+      "organization": "Competitor",
       "website": "https://www.nationalccdc.org/",
-      "position": "Competitor",
+      "position": "National Collegiate Cyber Defense Competition",
       "startDate": "2020",
       "endDate": "2020",
       "summary": "Cyber defense competition where an eight person team work to secure eight computers. We are the 'blue' side, who are working to defend against the attacking 'red' side.",
@@ -146,7 +146,7 @@
       "startDate": "2017",
       "endDate": "2017",
       "awarder": "American Association of Physics Teachers, Hawaii Section",
-      "summary": "A competition that tested students' knowledge of physics. My group and I were challenged with various physics problems and scenarios. We placed second."
+      "summary": "A competition that tested students' knowledge of physics through various problems and activities. My team and I placed second."
     }
   ],
   "references": [
