@@ -76,9 +76,9 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaiʻi at Mānoa ",
-      "area": "Current GPA: 3.86",
-      "studyType": "Bachelor of Science in Computer Science",
+      "institution": "University of Hawaiʻi at Mānoa, Bachelor of Science in Computer Science",
+      "area": "Current GPA: 3.86, Expected Graduation in Spring 2021",
+      "studyType": "",
       "startDate": "2017-08-20",
       "endDate": "Present",
       "gpa": "3.86",
@@ -103,7 +103,7 @@
   ],
   "volunteer": [
     {
-      "organization": "Intern",
+      "organization": "Student and Intern",
       "website": "https://www.radgrad.org/summer2020.html",
       "position": "RadGrad Summer 2020 Internship",
       "startDate": "2020-01-15",
@@ -111,7 +111,7 @@
       "summary": "RadGrad is a project that intends to improve and aid students in their STEM career path. It helps students and aspiring STEM specialists by guiding them through their degree program and presenting them post-graduate opportunities.",
       "highlights": [
         "Part of the DevOps team for RadGrad",
-        "Research project for a better hosting platform for RadGrad. Better in terms of available application performance monitoring tools, performance, scalability, and minimal cost trade-off for performance"
+        "Research project for a better hosting platform for RadGrad. Variables for better include available application performance monitoring tools, performance, scalability, and minimal cost trade-off for performance"
       ]
     },
     {
