@@ -15,6 +15,7 @@ summary: RadGrad is a project that intends to improve and aid students in their 
 <p align="center">
   <img src="../images/RadGrad_Example_Picture_Medium.png">
 </p>
+
 <p align="center">
   <img src="../images/RadGrad2020Poster_Medium.PNG">
 </p>
@@ -22,12 +23,9 @@ summary: RadGrad is a project that intends to improve and aid students in their 
 RadGrad is a project that intends to improve and aid students in their STEM career path. It helps students and aspiring STEM specialists by guiding them through their degree program and presenting them post-graduate opportunities. 
 
 The purpose of this research project is to decide on an alternative hosting platform for RadGrad. Currently, RadGrad is hosted on Galaxy, which is a Meteor specific hosting platform that allows for easy deployment and monitoring of Meteor apps. For those unfamiliar, Meteor is a framework for developing applications.
-The drawbacks are that it is pricey and its servers are on the East coast, which causes high latency.
+The drawbacks are that it is pricey and its servers are on the East coast, which causes high latency. I worked on this research project with another person as a two-man team.
 
 Through research and deployments to various cloud service providers, we believe we found a platform to meet our needs and move the project forward.
-
-
-
 
 Our needs are as follows, in order of importance
 1. There must be an Availability of useful Application Performance Monitoring Tools.
