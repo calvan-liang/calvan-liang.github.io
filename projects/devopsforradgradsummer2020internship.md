@@ -14,9 +14,7 @@ summary: RadGrad is a project that intends to improve and aid students in their 
 
 <img class="ui rounded image" src="../images/RadGrad_Example_Picture_Medium.png">
 
-<img class="ui rounded image" src="../images/RadGrad2020Poster_Medium.PNG">
-
-RadGrad is a project that intends to improve and aid students in their STEM career path. It helps students and aspiring STEM specialists by guiding them through their degree program and presenting them post-graduate opportunities. 
+<a href="https://radgrad.ics.hawaii.edu/">RadGrad</a> is a project that intends to improve and aid students in their STEM career path. It helps students and aspiring STEM specialists by guiding them through their degree program and presenting them post-graduate opportunities. 
 
 The purpose of this research project is to decide on an alternative hosting platform for RadGrad. Currently, RadGrad is hosted on Galaxy, which is a Meteor specific hosting platform that allows for easy deployment and monitoring of Meteor apps. For those unfamiliar, Meteor is a framework for developing applications.
 The drawbacks are that it is pricey and its servers are on the East coast, which causes high latency. I worked on this research project with another person as a two-man team.
@@ -28,7 +26,9 @@ Our needs are as follows, in order of importance
 2. Must have Great performance and scalability
 3. Have Minimal cost for adequate performance with ~100 concurrent connections)
 
-Here is what we discovered about the following platforms.
+<a href="https://docs.google.com/drawings/d/1C5SUxQXSRMGr-xecWpKL2oaocSnMcmRQ6Ga0pHSrUhg/edit?usp=sharing">Here</a> is what we discovered about the following platforms.
+
+<img class="ui rounded image" src="../images/RadGrad2020Poster_Medium.PNG">
 
 Meteor/Galaxy was our control, and we used their standard for comparison to everything else. Easy deployment, but high cost and high latency.
 
