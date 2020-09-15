@@ -12,7 +12,7 @@ labels:
 summary: RadGrad is a project that intends to improve and aid students in their STEM career path. It helps students and aspiring STEM specialists by guiding them through their degree program and presenting them post-graduate opportunities.
 ---
 
-<p align="left">
+<p align="center">
   <img src="../images/RadGrad2020Poster.PNG">
 </p>
 
