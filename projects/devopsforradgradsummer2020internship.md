@@ -16,4 +16,4 @@ summary: RadGrad is a project that intends to improve and aid students in their 
   <img src="../images/RadGrad2020Poster.PNG">
 </p>
 
-Test1
+Test2
