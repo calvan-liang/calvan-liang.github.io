@@ -17,3 +17,5 @@ summary: Simple event planner for calendar applications such as Google Calendar 
 
 Test1
 <a href="https://www.youtube.com/watch?v=D0NeUnkRCAc&t">Video Demonstration</a>
+
+For the source code, visit the <a href="https://github.com/Au-Adrian/team-capers">github repository</a>.
