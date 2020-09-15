@@ -5,7 +5,7 @@ image: images/RadGrad_Example_Picture_Small.PNG
 title: DevOps for RadGrad Summer 2020 Internship
 permalink: projects/devopsforradgradsummer2020internship
 # All dates must be YYYY-MM-DD format!
-date: 2018-12-06
+date: 2020-7-15
 labels:
   - Docker
   - DevOps
