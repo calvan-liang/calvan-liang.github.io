@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/m3landing.PNG
+image: images/RadGrad_Example_Picture_Small.PNG
 title: DevOps for RadGrad Summer 2020 Internship
 permalink: projects/devopsforradgradsummer2020internship
 # All dates must be YYYY-MM-DD format!
