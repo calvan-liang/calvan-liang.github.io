@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/radgrad_logo.png
+image: images/EventPlanner_Square.png
 title: Event Planner for Calendar Applications
 permalink: projects/eventplannerforcalendarapplications
 # All dates must be YYYY-MM-DD format!
@@ -13,4 +13,6 @@ labels:
 summary: Simple event planner for calendar applications such as Google Calendar and Microsoft Outlook
 ---
 
-Test
+<img class="ui rounded image" src="../images/EventPlanner.PNG">
+
+Test1
