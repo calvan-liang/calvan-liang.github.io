@@ -13,7 +13,7 @@ summary: RadGrad is a project that intends to improve and aid students in their 
 ---
 
 <p align="center">
-  <img src="../images/RadGrad_Example_Picture_Small.PNG">
+  <img src="../images/RadGrad2020Poster.PNG">
 </p>
 
 Test
