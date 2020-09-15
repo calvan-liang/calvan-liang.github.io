@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/RadGrad_Example_Picture_Small_Square.png
+image: images/radgrad_logo.png
 title: DevOps for RadGrad Summer 2020 Internship
 permalink: projects/devopsforradgradsummer2020internship
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,10 @@ summary: RadGrad is a project that intends to improve and aid students in their 
 ---
 
 <p align="center">
-  <img src="../images/radgrad_logo.png">
+  <img src="../images/RadGrad_Example_Picture_Medium.png">
+</p>
+<p align="center">
+  <img src="../images/RadGrad2020Poster_Medium.PNG">
 </p>
 
-Test3
+Test5
