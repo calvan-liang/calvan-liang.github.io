@@ -37,4 +37,6 @@ As a virtual team project, the absolute first thing the team has to establish is
 
 ## The Helping Hands Application
 
+Here are the team's **[Devpost](https://devpost.com/software/helping-hands-o96srp)** and **[GitHub](https://github.com/HACC2020/HACCsgiving)**
+
 ## The Good, the Bad, and the Future
