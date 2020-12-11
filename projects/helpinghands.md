@@ -10,7 +10,7 @@ labels:
   - Javascript
   - React Native
   - Firebase
-summary: Helping Hands is a Hawaii State Resource Directory Application that was developed by a five member team called HACCsgiving for the 2020 Hawaii Annual Code Challenge (HACC). It is intended to help users who need assistance in things such as housing, food, and medical. Users can quickly go on the app and find what exactly what they need in mere seconds, rather than going through a painstaking hunt through various directories on the internet. 
+summary: Helping Hands is a Hawaii State Resource Directory Application that was developed by a five member team called HACCsgiving for the 2020 Hawaii Annual Code Challenge (HACC). It is intended to help users who need assistance in things such as housing, food, and medical. Users can quickly go on the mobile application and find what exactly what they need in mere seconds, rather than going through a painstaking hunt through various directories on the internet. 
 ---
 
 ## Quick Introduction
@@ -25,7 +25,7 @@ The 2020 Hawaii Annual Code Challenge (HACC) is a competition where participants
 
 ## HACCsgiving
 
-My HACC team is comprised of five people. They are **[Kegan Flagg](https://github.com/LukewarmCoffee), [Christopher Na](https://github.com/chrisjna), [Graham Francisco](https://github.com/gbfrancisco), [Micah Kim](https://github.com/kimmicah)** and myself, **[Calvan Liang](https://github.com/calvan-liang)**. We chose the pun of a name "HACCsgiving" because the final presentation takes place a few days before Thanksgiving and the "giving" part somewhat relates to the challenge we chose to develop an app for. 
+My HACC team is comprised of five people. They are **[Kegan Flagg](https://github.com/LukewarmCoffee), [Christopher Na](https://github.com/chrisjna), [Graham Francisco](https://github.com/gbfrancisco), [Micah Kim](https://github.com/kimmicah)** and myself, **[Calvan Liang](https://github.com/calvan-liang)**. We chose the pun of a name "HACCsgiving" because the final presentation takes place a few days before Thanksgiving and the "giving" part somewhat relates to the challenge we chose to develop an mobile application for. 
 
 ## The Hawaii State Resource Directory Challenge
 
