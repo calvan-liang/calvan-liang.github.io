@@ -45,6 +45,8 @@ Unfortunately, the implementation of the Helping Hands mobile application was ab
 
 ## The Helping Hands Application
 
+The Helping Hands Application is very straightforward and exactly what it is intended to be. An entire list of services is contained in a database. The search filters through all the servises until only the related services that the user is interested in are left. Hypothetically, users can download this application on their phone and search up information or assistance they need within a minute.
+
 #### Landing
 
 Opening the Helping Hands Application, this is the initial screen that the users see
