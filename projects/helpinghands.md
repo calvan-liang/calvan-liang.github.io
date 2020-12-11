@@ -51,6 +51,36 @@ Opening the Helping Hands Application, this is the initial screen that the users
 
 <img class="ui large centered image" src="../images/landing.png">
 
+#### State Employee?
+After the landing screen, the application asks if the user is a state employee. The user is directed to the login screen if "yes" is selected. Otherwise, selecting "no" will direct the user to the "splash" page.
+
+<img class="ui large centered image" src="../images/employee.png">
+
+#### Login
+
+After selecting "yes" on the previous screen, the user, presumably a state employee, can log in.
+
+<img class="ui large centered image" src="../images/login.png">
+
+#### Splash Page
+
+The splash page is sort of the main "hub" of the application. One of the recommended searches can be selected to quickly direct users to what they need. At the bottom, the user can select one of the tabs to either search for the service they require or view the entire list of services. 
+
+<img class="ui large centered image" src="../images/splash.png">
+
+#### Search
+
+The search enables users to search for services they need using keywords. Clicking on one of the services will direct the user to a card with information about the service they selected and a link to the appropriate website.
+
+<img class="ui large centered image" src="../images/search.png">
+
+#### List of All Services
+
+This has a list of all the services on the app.
+
+<img class="ui large centered image" src="../images/list.png">
+
+#### Video Demonstration
 Here is a quick video demonstration that Kegan created. It exhibits Helping Hand's functionality.
 
 <iframe width="690" height="445" src="https://www.youtube.com/embed/pmVGrtbvdLk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
