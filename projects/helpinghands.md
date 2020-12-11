@@ -33,10 +33,8 @@ The challenge that my team and I chose is in need of an index that lists various
 
 ## The Process
 
+As a virtual team project, the absolute first thing the team has to establish is communication. We decided to use **[Discord](https://discord.com/)**. Discord is a platform where users can join a "server" and send messages in text channels, make voice calls, make video calls, send files, and send links within that server. Such a multipurpose platform is perfect for what we required.
+
 ## The Helping Hands Application
 
 ## The Good, the Bad, and the Future
-
-
-
-*
