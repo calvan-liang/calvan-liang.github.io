@@ -25,6 +25,8 @@ The 2020 Hawaii Annual Code Challenge (HACC) is a competition where participants
 
 ## HACCsgiving
 
-My HACC team is comprised of five people. They are **[Graham Francisco](https://github.com/gbfrancisco), [Micah Kim](https://github.com/kimmicah), [Kegan Flagg](https://github.com/LukewarmCoffee), [Christopher Na](https://github.com/chrisjna)** and myself, **[Calvan Liang](https://github.com/calvan-liang)**.
+My HACC team is comprised of five people. They are **[Kegan Flagg](https://github.com/LukewarmCoffee), [Christopher Na](https://github.com/chrisjna) [Graham Francisco](https://github.com/gbfrancisco), [Micah Kim](https://github.com/kimmicah)** and myself, **[Calvan Liang](https://github.com/calvan-liang)**. We chose the pun of a name "HACCsgiving" because the final presentation takes place a few days before Thanksgiving and the "giving" part somewhat relates to the challenge we chose to develop an app for. Here is the project's **[Devpost](https://devpost.com/software/helping-hands-o96srp)** and **[GitHub](https://github.com/HACC2020/HACCsgiving)**
 
+## The Hawaii State Resource Directory Challenge
 
+The challenge that my team and I chose is in need of an index that lists various available assistive resources in Hawaii. Resources include things such as health insurance, housing assitance programs, and food assistance programs. This resource index can be accessed through an app, where users can quickly find whatever assistance they require. This challenge is given by First Lady Dawn Amano-Ige. More information about the Hawaii State Resource Directory Challenge can be found **[here](https://hacc.hawaii.gov/wp-content/uploads/2020/10/Challenge_2020_ResourceDirectory.pdf)**.
