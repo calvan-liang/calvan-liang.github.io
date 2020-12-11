@@ -83,9 +83,7 @@ This has a list of all the services on the app.
 <img class="ui large centered image" src="../images/list.png">
 
 #### Video Demonstration
-Here is a quick video demonstration that Kegan created. It exhibits Helping Hand's functionality.
-
-<iframe width="690" height="445" src="https://www.youtube.com/watch?v=pmVGrtbvdLk&feature=emb_logo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Here is a quick **[video demonstration](https://www.youtube.com/watch?v=pmVGrtbvdLk&feature=emb_logo)** that Kegan created. It exhibits Helping Hand's functionality.
 
 Here are the team's **[Devpost](https://devpost.com/software/helping-hands-o96srp)** and **[GitHub](https://github.com/HACC2020/HACCsgiving)**
 
