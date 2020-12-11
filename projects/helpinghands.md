@@ -29,7 +29,7 @@ The challenge that my team and I chose is in need of an index that lists various
 
 ## The HACCsgiving team
 
-My HACC team is comprised of five people. They are **[Kegan Flagg](https://github.com/LukewarmCoffee), [Christopher Na](https://github.com/chrisjna), [Graham Francisco](https://github.com/gbfrancisco), [Micah Kim](https://github.com/kimmicah)** and myself, **[Calvan Liang](https://github.com/calvan-liang)**. We chose the pun of a name "HACCsgiving" because the final presentation takes place a few days before Thanksgiving and the "giving" part somewhat relates to the challenge we chose to develop an mobile application for. 
+My HACC team is comprised of five people. They are **[Kegan Flagg](https://github.com/LukewarmCoffee), [Christopher Na](https://github.com/chrisjna), [Graham Francisco](https://github.com/gbfrancisco), [Micah Kim](https://github.com/kimmicah)** and myself, **[Calvan Liang](https://github.com/calvan-liang)**. We chose the pun of a name "HACCsgiving" because the final presentation takes place a few days before Thanksgiving and the "giving" part somewhat relates to the Hawaii State Resource Directory Challenge. 
 
 ## The Process
 
