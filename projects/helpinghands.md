@@ -85,6 +85,7 @@ This has a list of all the services on the app.
 #### Video Demonstration
 Here is a quick **[video demonstration](https://www.youtube.com/watch?v=pmVGrtbvdLk&feature=emb_logo)** that Kegan created. It exhibits Helping Hand's functionality.
 
+#### Links
 Here are the team's **[Devpost](https://devpost.com/software/helping-hands-o96srp)** and **[GitHub](https://github.com/HACC2020/HACCsgiving)**
 
 ## The Good, the Bad, and the Future
