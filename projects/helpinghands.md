@@ -72,7 +72,7 @@ The splash page is sort of the main "hub" of the application. One of the recomme
 
 The search enables users to search for services they need using keywords. Clicking on one of the services will direct the user to a card with information about the service they selected and a link to the appropriate website.
 
-<img class="ui large centered image" src="../images/search.png">
+<img class="ui large centered image" src="../images/search.gif">
 
 #### List of All Services
 
