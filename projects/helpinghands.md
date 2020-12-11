@@ -19,9 +19,9 @@ Helping Hands is a Hawaii State Resource Directory Application that was develope
 
 ## The 2020 Hawaii Annual Code Challenge (HACC)
 
-The 2020 Hawaii Annual Code Challenge (HACC) is a competition where participants use their knowledge, skills, and creativity to design an useful application that would benefit the people of Hawaii in some way. Several challenge prompts were presented to the participants to choose from. In teams, participants design and implement their application over roughly three to four weeks. After the first week or so, each team will present what they have implemeted so far to a panel of tehcnical judges and earn points. If the team receives enough points, they will be selected to present their final product in the final presentation. In the final presentation, the applications will be judged by another panel of judges for final scoring. However, unlike the previous years where such presentations would occur in-person, the 2020 HACC was completely virtual. This was due to the COVID-19 pandemic. To keep everyone safe, everyone can stay distanced at home and attend the virtual HACC on a video conferencing platform called **[Zoom](https://zoom.us)**. More information about HACC can be found **[here](https://hacc.hawaii.gov/)**.
+<img class="ui large centered image" src="../images/HACC.png">
 
-<img class="ui large centered image" src="../images/HACCSquare.PNG">
+The 2020 Hawaii Annual Code Challenge (HACC) is a competition where participants use their knowledge, skills, and creativity to design an useful application that would benefit the people of Hawaii in some way. Several challenge prompts were presented to the participants to choose from. In teams, participants design and implement their application over roughly three to four weeks. After the first week or so, each team will present what they have implemeted so far to a panel of tehcnical judges and earn points. If the team receives enough points, they will be selected to present their final product in the final presentation. In the final presentation, the applications will be judged by another panel of judges for final scoring. However, unlike the previous years where such presentations would occur in-person, the 2020 HACC was completely virtual. This was due to the COVID-19 pandemic. To keep everyone safe, everyone can stay distanced at home and attend the virtual HACC on a video conferencing platform called **[Zoom](https://zoom.us)**. More information about HACC can be found **[here](https://hacc.hawaii.gov/)**.
 
 ## The Hawaii State Resource Directory Challenge
 
@@ -47,9 +47,13 @@ Unfortunately, the implementation of the Helping Hands mobile application was ab
 
 #### Landing
 
-When the Helping Hands mobile application is opened, this is the initial screen that the users see
+Opening the Helping Hands Application, this is the initial screen that the users see
 
 <img class="ui large centered image" src="../images/landing.png">
+
+Here is a quick video demonstration that Kegan created. It exhibits Helping Hand's functionality.
+
+<iframe width="690" height="445" src="https://www.youtube.com/embed/pmVGrtbvdLk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Here are the team's **[Devpost](https://devpost.com/software/helping-hands-o96srp)** and **[GitHub](https://github.com/HACC2020/HACCsgiving)**
 
