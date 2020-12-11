@@ -35,6 +35,10 @@ The challenge that my team and I chose is in need of an index that lists various
 
 As a virtual team project, the absolute first thing the team has to establish is communication. We decided to use **[Discord](https://discord.com/)**. Discord is a platform where users can join a "server" and send messages in text channels, make voice calls, make video calls, send files, and send links within that server. Such a multipurpose platform is perfect for what we required.
 
+The process for implementing the Helping Hands mobile application was rather chaotic. This may be due to our inexperience in working on a project that is solely virtual. We did several voice call conferences, but it was difficult to convey and express our ideas through words only. Imagine trying to describe how an application would exactly look and function solely in words. We eventually conjured up a general idea and a team member was able to scribble out a mockup. Although it is extremely rough, this mockup was the thing we needed to set our plan in motion. 
+
+For the framework, we chose to use **[React-Native](https://reactnative.dev/)**. React-Native was chosen because most of our team members already have some experience with the **[React](https://reactjs.org/)** Javacript Library. We also needed a back-end service that gives us the ability to store things in a database and do authentication for user log-in purposes. Firebase, a service developed by Google, fulfilled that purpose sufficiently.
+
 ## The Helping Hands Application
 
 Here are the team's **[Devpost](https://devpost.com/software/helping-hands-o96srp)** and **[GitHub](https://github.com/HACC2020/HACCsgiving)**
