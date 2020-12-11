@@ -10,7 +10,7 @@ labels:
   - Javascript
   - React Native
   - Firebase
-summary: Hawaii State Resource Directory App developed for the 2020 Hawaii Annual Code Challenge
+summary: Hawaii State Resource Directory App developed for the 2020 Hawaii Annual Code Challenge (HACC)
 ---
 
-Test
+Helping Hands is a Hawaii State Resource Directory App that was developed by a five member team called HACCsgiving for the 2020 Hawaii Annual Code Challenge (HACC). 
