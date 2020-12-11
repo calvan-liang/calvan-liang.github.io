@@ -45,7 +45,7 @@ Unfortunately, the implementation of the Helping Hands mobile application was ab
 
 ## The Helping Hands Application
 
-The Helping Hands Application is very straightforward and exactly what it is intended to be. An entire list of services is contained in a database. The search filters through all the servises until only the related services that the user is interested in are left. Hypothetically, users can download this application on their phone and search up information or assistance they need within a minute.
+The Helping Hands Application is very straightforward and exactly what it is intended to be. An entire list of services is contained in a database. The search filters through all the services until only the related services that the user is interested in are left. Hypothetically, users can download this application on their phone and search up information or assistance they need within a minute.
 
 #### Landing
 
@@ -90,3 +90,11 @@ Here is a quick video demonstration that Kegan created. It exhibits Helping Hand
 Here are the team's **[Devpost](https://devpost.com/software/helping-hands-o96srp)** and **[GitHub](https://github.com/HACC2020/HACCsgiving)**
 
 ## The Good, the Bad, and the Future
+
+Despite the chaotic planning and progression, I am proud that my team and I were able to create the Helping Hands application. We were able to keep on track and trudged onward to create a fairly decent application that served the role we intially intended. Although difficult to convey what each of us exactly wanted to implement, we communicated frequently and worked through what needed to be done. We were able to successfully obtain a finished product that was very user-friendly and a great tool for those in need of information or assistance. 
+
+Our workflow was messy and horrendous. No short term goals were planned and the direction of progress was all over the place. Perhaps someone should have stepped up and took charge of organizing what needed to be done. Everyone sort of blanked on the idea of organizing our work and wanted to get straight to implementing their ideas. We also sort of assigned ourselves our own roles. It is was not clear what everyone was doing exactly. Some of our communications were not about what to do next, but rather what we're doing and what to avoid so that our merges on Github would not conflict each other. 
+
+HACC taught me a lot about working as a team in a solely virtual environment. It is vital for us to have a plan, though not in the way we think. Our biggest failure was the planning, but not having a plan on how to do the planning. We sort of just threw ideas around without a clear unified goal in mind. We only initially started to cover ground towards the finished product when a rough mockup is scribbled up. This clearly shows that having a plan is not the most important first step. It is how we arrive to a plan. We have to learn some sort of methodology or template for creating a plan.
+
+After working more with the React-Native framework, I have to say that it does not feel satifying. What we could do with library turned out well, but it feels rather limited. Outside of the basics, creating more complex and pleasing to the eye components does not seem possible. The user interface is solid and easy to use but it seems rather static. There is little that can be done to make the application seems more "animated." 
