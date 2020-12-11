@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/HACCSquare.png
+image: images/HACCSquare.PNG
 title: Helping Hands
 permalink: projects/helpinghands
 # All dates must be YYYY-MM-DD format!
