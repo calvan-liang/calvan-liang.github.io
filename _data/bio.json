@@ -47,6 +47,11 @@
       "name": "Web Development",
       "keywords": [
       ]
+    },
+    {
+      "name": "Networking",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
@@ -70,7 +75,6 @@
         "Linex",
         "GitHub",
         "IntelliJ IDEA",
-        "Computer Hardware Knowledge"
       ]
     }
   ],
@@ -78,10 +82,10 @@
     {
       "institution": "University of Hawaiʻi at Mānoa, B.S. Computer Science",
       "area": "Expected Graduation in Spring 2021",
-      "studyType": "Current GPA: 3.86",
+      "studyType": "Current GPA: 3.88",
       "startDate": "2017-08-20",
       "endDate": "Present",
-      "gpa": "3.86",
+      "gpa": "3.88",
       "courses": [
       ]
     }
@@ -112,18 +116,6 @@
       "highlights": [
         "Part of the DevOps team for RadGrad",
         "Research project for a better hosting platform for RadGrad. Variables for better include available application performance monitoring tools, performance, scalability, and minimal cost trade-off for performance"
-      ]
-    },
-    {
-      "organization": "Member and Competitor",
-      "website": "http://www.uscyberpatriot.org/",
-      "position": "Cyberpatriot",
-      "startDate": "2016-08-15",
-      "endDate": "2017-05-25",
-      "summary": "Member of a three man group that competes in the Cyberpatriot monthly competition.",
-      "highlights": [
-        "Work to remove any security threats.",
-        "Solve the presented scenario or problem."
       ]
     },
     {
